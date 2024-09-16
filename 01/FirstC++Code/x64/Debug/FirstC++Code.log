@@ -1,0 +1,3 @@
+﻿  FirstC++Code.cpp
+C:\Users\Admin\source\repos\FirstC++Code\FirstC++Code\FirstC++Code.cpp(17,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FirstC++Code.vcxproj -> C:\Users\Admin\source\repos\FirstC++Code\x64\Debug\FirstC++Code.exe
