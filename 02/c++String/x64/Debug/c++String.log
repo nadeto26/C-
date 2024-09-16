@@ -1,0 +1,4 @@
+﻿  c++String.cpp
+C:\Users\Admin\source\repos\FirstC++Code\c++String\c++String.cpp(15,10): error C2371: 'str': redefinition; different basic types
+C:\Users\Admin\source\repos\FirstC++Code\c++String\c++String.cpp(13,12): message : see declaration of 'str'
+C:\Users\Admin\source\repos\FirstC++Code\c++String\c++String.cpp(15,15): error C2059: syntax error: '=='
