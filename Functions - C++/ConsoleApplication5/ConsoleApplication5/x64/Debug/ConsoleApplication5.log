@@ -1,0 +1,4 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Admin\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(6,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(10,48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication5.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe
