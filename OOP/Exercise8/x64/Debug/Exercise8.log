@@ -1,0 +1,2 @@
+﻿  Exercise8.cpp
+C:\Users\Admin\source\repos\ConsoleApplication6\Exercise8\Exercise8.cpp(31): error C4716: 'Point::calcDistance': must return a value
