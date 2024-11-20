@@ -1,0 +1,9 @@
+﻿  Exercise5.cpp
+  Triangle.cpp
+  Generating Code...
+Triangle.obj : error LNK2005: "public: __cdecl Triangle::Triangle(int,int,int)" (??0Triangle@@QEAA@HHH@Z) already defined in Exercise5.obj
+Triangle.obj : error LNK2005: "public: __cdecl Triangle::Triangle(void)" (??0Triangle@@QEAA@XZ) already defined in Exercise5.obj
+Triangle.obj : error LNK2005: "private: bool __cdecl Triangle::IsValid(void)" (?IsValid@Triangle@@AEAA_NXZ) already defined in Exercise5.obj
+Triangle.obj : error LNK2005: "public: int __cdecl Triangle::getParimeter(void)" (?getParimeter@Triangle@@QEAAHXZ) already defined in Exercise5.obj
+Triangle.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Triangle::getType(void)" (?getType@Triangle@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Exercise5.obj
+C:\Users\Admin\source\repos\Alert\x64\Debug\Exercise5.exe : fatal error LNK1169: one or more multiply defined symbols found
