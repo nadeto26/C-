@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E13881A-97ED-48D0-AC24-55DD27BC4437}|Exercise3\\Exercise3.vcxproj|C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E13881A-97ED-48D0-AC24-55DD27BC4437}|Exercise3\\Exercise3.vcxproj|solutionrelative:Exercise3\\Exercise3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DE4F5-76FE-4C94-AA02-BC87C588A502}|Exercise2\\Exercise2.vcxproj|C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise2\\Exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{800DE4F5-76FE-4C94-AA02-BC87C588A502}|Exercise2\\Exercise2.vcxproj|solutionrelative:Exercise2\\Exercise2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD2D490-1A7C-4AF7-8473-78FD3D93B596}|ConsoleApplication6\\ConsoleApplication6.vcxproj|C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CD2D490-1A7C-4AF7-8473-78FD3D93B596}|ConsoleApplication6\\ConsoleApplication6.vcxproj|solutionrelative:ConsoleApplication6\\ConsoleApplication6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise3.cpp",
+              "DocumentMoniker": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise3\\Exercise3.cpp",
+              "RelativeDocumentMoniker": "Exercise3\\Exercise3.cpp",
+              "ToolTip": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise3\\Exercise3.cpp*",
+              "RelativeToolTip": "Exercise3\\Exercise3.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T12:59:54.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApplication6.cpp",
+              "DocumentMoniker": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication6\\ConsoleApplication6.cpp",
+              "ToolTip": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\ConsoleApplication6\\ConsoleApplication6.cpp",
+              "RelativeToolTip": "ConsoleApplication6\\ConsoleApplication6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T12:19:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise2.cpp",
+              "DocumentMoniker": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise2\\Exercise2.cpp",
+              "RelativeDocumentMoniker": "Exercise2\\Exercise2.cpp",
+              "ToolTip": "C:\\Users\\npk240\\source\\repos\\ConsoleApplication6\\Exercise2\\Exercise2.cpp",
+              "RelativeToolTip": "Exercise2\\Exercise2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T12:44:53.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

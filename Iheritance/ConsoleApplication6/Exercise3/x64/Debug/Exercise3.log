@@ -1,0 +1,196 @@
+﻿  Exercise3.cpp
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(32,9): error C3861: 'getline': identifier not found
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'Location' (or there is no acceptable conversion)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(486,39):
+      could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)': cannot convert argument 2 from 'Location' to 'std::basic_streambuf<char,std::char_traits<char>> *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(454,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)': cannot convert argument 2 from 'Location' to 'const void *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(436,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)': cannot convert argument 2 from 'Location' to 'long double'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(418,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)': cannot convert argument 2 from 'Location' to 'double'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(400,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)': cannot convert argument 2 from 'Location' to 'float'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(382,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)': cannot convert argument 2 from 'Location' to 'unsigned __int64'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(364,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)': cannot convert argument 2 from 'Location' to '__int64'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(346,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)': cannot convert argument 2 from 'Location' to 'unsigned long'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(328,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)': cannot convert argument 2 from 'Location' to 'long'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(309,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)': cannot convert argument 2 from 'Location' to 'unsigned int'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(283,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)': cannot convert argument 2 from 'Location' to 'int'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(264,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)': cannot convert argument 2 from 'Location' to 'unsigned short'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(230,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)': cannot convert argument 2 from 'Location' to 'short'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(212,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)': cannot convert argument 2 from 'Location' to 'bool'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(206,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))': cannot convert argument 2 from 'Location' to 'std::ios_base &(__cdecl *)(std::ios_base &)'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(200,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))': cannot convert argument 2 from 'Location' to 'std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &)'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(195,39):
+      or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))': cannot convert argument 2 from 'Location' to 'std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &)'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\xstring(3420,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'const std::basic_string<_Elem,_Traits,_Alloc> &' from 'Location'
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\memory(1979,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::shared_ptr<_Ty> &)': could not deduce template argument for 'const std::shared_ptr<_Ty> &' from 'Location'
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\memory(3761,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::unique_ptr<_Ty2,_Dx2> &)': could not deduce template argument for 'const std::unique_ptr<_Ty2,_Dx2> &' from 'Location'
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(694,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'const char *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(738,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'char'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(774,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'const char *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(819,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'char'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(857,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)': could not deduce template argument for 'const _Elem *' from 'Location'
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(900,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': template parameter '_Elem' is ambiguous
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+              could be 'Location'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+              or       'char'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)': could not deduce template argument for '_Elem' from 'Location'
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(936,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'const signed char *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(942,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'signed char'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(947,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'const unsigned char *'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(953,31):
+      or       'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'unsigned char'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(1011,9):
+      or       '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+          '_Ostr &&std::operator <<(_Ostr &&,const _Ty &)': could not deduce template argument for '__formal'
+              C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(1010,103):
+              '<template-parameter>': you cannot create a pointer to a reference
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.41.34120\include\ostream(1088,32):
+      or       'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+          'initializing': cannot convert from 'Location' to 'const std::error_code &'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              Reason: cannot convert from 'Location' to 'const std::error_code'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,18):
+              No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+      C:\Users\npk240\source\repos\ConsoleApplication6\Exercise3\Exercise3.cpp(50,10):
+      while trying to match the argument list '(std::ostream, Location)'
+  

@@ -1,0 +1,21 @@
+﻿  Exercise2.cpp
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(9,19): error C2065: 'i': undeclared identifier
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(9,19): error C3861: 'i': identifier not found
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(9,29): error C3861: 'inttarget': identifier not found
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(10,17): error C3861: 'i': identifier not found
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(11,20): error C3861: 'i': identifier not found
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(9,29): error C2065: 'inttarget': undeclared identifier
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(10,17): error C2065: 'i': undeclared identifier
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(11,20): error C2065: 'i': undeclared identifier
+C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(23,18): error C2672: 'findIndex': no matching overloaded function found
+      C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(8,5):
+      could be 'int findIndex(T [],int,T)'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(23,18):
+          'int findIndex(T [],int,T)': template parameter 'T' is ambiguous
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(23,18):
+              could be 'std::string'
+              C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(23,18):
+              or       'int'
+          C:\Users\npk240\source\repos\ConsoleApplication6\Exercise2\Exercise2.cpp(23,18):
+          'int findIndex(T [],int,T)': could not deduce template argument for 'T' from 'std::string'
+  
