@@ -1,0 +1,3 @@
+﻿  practise.cpp
+C:\Users\Admin\source\repos\practise\practise\practise.cpp(59,26): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  practise.vcxproj -> C:\Users\Admin\source\repos\practise\x64\Debug\practise.exe
